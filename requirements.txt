@@ -1,0 +1,10 @@
+# Dependencies for author_affil.py
+# Install with:  pip install -r requirements.txt
+pandas>=2.0
+requests>=2.28
+beautifulsoup4>=4.11
+
+# Note: the LaTeX -> author/affiliation extraction also needs a running Ollama
+# server (https://ollama.com) with the model pulled:
+#   ollama pull gemma4:e2b
+# Ollama is a separate install, not a pip package.
