@@ -1,0 +1,28 @@
+arxiv_id,author,affiliation,gender,gender_method,gender_confidence
+2601.00044,Tak-Pong Woo,"Institute of Astrophysics, National Taiwan University, Taipei 10617, Taiwan",male,name,high
+2601.00046,Yujin Kim,"Department of Data Science, Jeju National University, Jeju, South Korea",female,name,high
+2601.00055,Sumit K. Sarbadhicary,"Department of Physics and Astronomy, The Johns Hopkins University, Baltimore, MD 21218 USA",male,name,high
+2601.00055,David Thilker,"Department of Physics and Astronomy, The Johns Hopkins University, Baltimore, MD 21218 USA",male,name,high
+2601.00055,Adam K. Leroy,"Center for Cosmology Astro-Particle Physics, The Ohio State University, Columbus, Ohio 43210, USA",male,name,high
+2601.00055,Janice C. Lee,"Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218, USA",female,name,high
+2601.00055,Amirnezam Amiri,"Department of Physics, University of Arkansas, Fayetteville, AR 72701, USA",male,name,high
+2601.00055,Gagandeep S. Anand,"Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218, USA",male,name,high
+2601.00055,Ashley.~T.~Barnes,"European Southern Observatory, Karl-Schwarzschild Stra{\ss}e 2, D-85748 Garching bei M""{u}nchen, Germany",female,name,high
+2601.00055,Médéric Boquien,"Université Côte d'Azur, Observatoire de la Côte d'Azur, CNRS, Laboratoire Lagrange, 06000, Nice, France",male,name,high
+2601.00055,Daniel~A.~Dale,"Department of Physics and Astronomy, University of Wyoming, Laramie, WY 82071, USA",male,name,high
+2601.00055,Simthembile Dlamini,"Department of Astronomy, University of Cape Town, Rondebosch, Cape Town, 7700, South Africa",female,name,high
+2601.00055,"Simon~C.~O."",","Universit""{a}t Heidelberg, Zentrum f""{u}r Astronomie, Institut f""{u}r Theoretische Astrophysik, Albert-Ueberle-Str."", 2, 69120 Heidelberg, Germany",unknown,name,low
+2601.00055,Ralf S. Klessen,"Universit""{a}t Heidelberg, Zentrum f""{u}r Astronomie, Institut f""{u}r Theoretische Astrophysik, Albert-Ueberle-Str."", 2, 69120 Heidelberg, Germany",male,name,high
+2601.00055,Kirsten L. Larson,"AURA for the European Space Agency (ESA), Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218, USA",female,name,high
+2601.00055,Daniel Maschmann,"Department of Physics and Astronomy, University of Wyoming, Laramie, WY 82071, USA",male,name,high
+2601.00055,Hsi-An Pan,"Department of Physics, Tamkang University, No.151, Yingzhuan Road, Tamsui District, New Taipei City 251301, Taiwan",unknown,name,low
+2601.00055,Jiayi Sun,"Department of Physics and Astronomy, University of Kentucky, 506 Library Drive, Lexington, KY 40506, USA",female,name,high
+2601.00055,Leonardo 'Ubeda,"Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218, USA",male,search,low
+2601.00055,Thomas G. Williams,"UK ALMA Regional Centre Node, Jodrell Bank Centre for Astrophysics, Department of Physics and Astronomy, The University of Manchester, Oxford Road, Manchester M13 9PL, UK",male,name,high
+2601.00055,Aida Wofford,"Instituto de Astronom{\acute{a}}, Universidad Nacional Aut{\acute{o}noma de M{\acute{e}xico, Unidad Acad{\acute{e}mica en Ensenada, Km 103 Carr. Tijuana$-$Ensenada, Ensenada, B.C.,\C.P. 22860, M{\acute{e}xico}",female,name,high
+2601.00059,Roberto Tejada Arevalo,"Department of Astrophysical Sciences, Princeton University",male,name,high
+2601.00059,Akash Gupta,"Department of Astrophysical Sciences, Princeton University",male,name,high
+2601.00059,Adam Burrows,"Department of Astrophysical Sciences, Princeton University",male,name,high
+2601.00059,Donghao Zheng,"Department of Geosciences, Princeton University",unknown,name,low
+2601.00059,Yao Tang,"Department of Astronomy and Astrophysics, University of California, Santa Cruz",unknown,name,low
+2601.00059,Jie Deng,"Department of Geosciences, Princeton University",unknown,name,low
