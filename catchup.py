@@ -99,6 +99,8 @@ def parse_paper_metadata(dt_tag, dd_tag, index):
     }
 
 def scrape_arxiv():
+    # Force a time delay to avoid rate limiting
+    time.sleep(3)
     start_date_str = get_start_date()
     # Initial Catchup URL
     current_url = f"https://arxiv.org/catchup/astro-ph/{start_date_str}?abs=True"
