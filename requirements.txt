@@ -1,8 +1,11 @@
-# Dependencies for author_affil.py
+# Dependencies for author_affil.py, funding_grants.py,
+# ads_citations.py, ads_affiliations.py, ads_journals.py, inspire_citations.py
 # Install with:  pip install -r requirements.txt
 pandas>=2.0
 requests>=2.28
 beautifulsoup4>=4.11
+tqdm>=4.64
+python-dotenv>=1.0
 
 # Note: the LaTeX -> author/affiliation extraction also needs a running Ollama
 # server (https://ollama.com) with the model pulled:
